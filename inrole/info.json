@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "PaveLiArcH''s cogs",
+    "SHORT" : "Reapplies specific roles on join",
+    "DESCRIPTION" : "Shows members in role.",
+    "NAME" : "InRole",
+    "TAGS" : ["roles", "utility", "tools", "moderation"],
+    "INSTALL_MSG" : "The command is `[p]inrole`. Remember that role names are case sensitive."
+}

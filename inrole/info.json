@@ -1,6 +1,6 @@
 {
     "AUTHOR" : "PaveLiArcH''s cogs",
-    "SHORT" : "Reapplies specific roles on join",
+    "SHORT" : "Shows members in role",
     "DESCRIPTION" : "Shows members in role.",
     "NAME" : "InRole",
     "TAGS" : ["roles", "utility", "tools", "moderation"],

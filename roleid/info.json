@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "PaveLiArcH''s cogs",
+    "SHORT" : "Shows role id",
+    "DESCRIPTION" : "Shows role id.",
+    "NAME" : "InRole",
+    "TAGS" : ["roles", "utility", "tools", "moderation"],
+    "INSTALL_MSG" : "The command is `[p]roleid`. Remember that role names are case sensitive."
+}
